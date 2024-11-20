@@ -2,9 +2,25 @@ XOXA
 
 Android chat application made using Android Studio and Java, with a backend 
 powered by MongoDB, supporting 100+ concurrent users.
+This is a real-time chat application built using Java and MongoDB. The app allows users to send and receive messages in real time, making use of Java's robust backend capabilities and MongoDB’s NoSQL database to store and manage messages efficiently.
 
+Features:
+1. Real-Time Messaging: Instant message exchange between users with minimal delay.
+2. MongoDB Integration: Efficient storage and retrieval of user data and chat history.
+3. User Authentication: Users can sign up, log in, and securely access the chat service.
+4. GUI: The application features a user-friendly interface designed using Java Swing (or JavaFX).
+
+How to Run:
+1. Clone this repository to your local machine.
+2. Install Java JDK (8 or above).
+3. Set up MongoDB and configure it to run locally or use a cloud instance, Get the 'APP ID' from MongoDB & paste it in code(as shown in below p
+4. Build and run the application using your preferred IDE or via the command line.
+5. Follow the on-screen instructions to sign up, log in, and start chatting!
 
 ![Pic 1](https://github.com/LinguaByte/XOXA/blob/main/Images/Pic%201.jpg)
 ![Pic 2](https://github.com/LinguaByte/XOXA/blob/main/Images/Pic%202.jpg)
 ![Pic 3](https://github.com/LinguaByte/XOXA/blob/main/Images/Pic%203.jpg)
 This image shows where you have to upload the app id.
+
+Contributions:
+Feel free to fork this repository, open issues, and submit pull requests. Contributions to add new features or improve the application are always welcome!
