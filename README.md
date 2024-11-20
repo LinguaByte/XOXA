@@ -24,3 +24,6 @@ This image shows where you have to upload the app id.
 
 Contributions:
 Feel free to fork this repository, open issues, and submit pull requests. Contributions to add new features or improve the application are always welcome!
+
+Disclaimer:
+There may be some code in this repository that I would like to modify or remove because it is beginning level. I've been neglecting this for a while, but I'm currently working to gradually resolve these problems. If you discover any open issues, feel free to report them, and I'll also take PRs.
