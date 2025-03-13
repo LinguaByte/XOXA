@@ -1,4 +1,4 @@
-XOXA
+#XOXA
 
 Android chat application made using Android Studio and Java, with a backend 
 powered by MongoDB, supporting 100+ concurrent users.
