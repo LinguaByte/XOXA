@@ -10,7 +10,7 @@ This is a real-time chat application built using Java and MongoDB. The app allow
 3. User Authentication: Users can sign up, log in, and securely access the chat service.
 4. GUI: The application features a user-friendly interface designed using Java Swing (or JavaFX).
 
-How to Run:
+### How to Run:
 1. Clone this repository to your local machine.
 2. Install Java JDK (8 or above).
 3. Set up MongoDB and configure it to run locally or use a cloud instance, Get the 'APP ID' from MongoDB & paste it in code(as shown in below p
@@ -22,8 +22,8 @@ How to Run:
 ![Pic 3](https://github.com/LinguaByte/XOXA/blob/main/Images/Pic%203.jpg)
 This image shows where you have to upload the app id.
 
-Contributions:
+## Contributions:
 Feel free to fork this repository, open issues, and submit pull requests. Contributions to add new features or improve the application are always welcome!
 
-Disclaimer:
+### Disclaimer:
 There may be some code in this repository that I would like to modify or remove because it is beginning level. I've been neglecting this for a while, but I'm currently working to gradually resolve these problems. If you discover any open issues, feel free to report them, and I'll also take PRs.
