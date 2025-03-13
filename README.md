@@ -17,9 +17,9 @@ This is a real-time chat application built using Java and MongoDB. The app allow
 4. Build and run the application using your preferred IDE or via the command line.
 5. Follow the on-screen instructions to sign up, log in, and start chatting!
 
-![Pic 1](https://github.com/LinguaByte/XOXA/blob/main/Images/Pic%201.jpg)
-![Pic 2](https://github.com/LinguaByte/XOXA/blob/main/Images/Pic%202.jpg)
-![Pic 3](https://github.com/LinguaByte/XOXA/blob/main/Images/Pic%203.jpg)
+<img src="https://github.com/LinguaByte/XOXA/blob/main/Images/Pic%201.jpg" alt="Pic 1" width="800" /><br><br>
+<img src="https://github.com/LinguaByte/XOXA/blob/main/Images/Pic%202.jpg" alt="Pic 2" width="800" /><br><br>
+<img src="https://github.com/LinguaByte/XOXA/blob/main/Images/Pic%203.jpg" alt="Pic 3" width="800" /><br><br>
 This image shows where you have to upload the app id.
 
 ## Contributions:
