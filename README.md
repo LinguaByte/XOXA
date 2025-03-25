@@ -6,6 +6,7 @@ This is a real-time chat application built using Java and MongoDB. The app allow
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Features](#Features)
 - [Usage](#Usage)
 - [Dataset](#dataset)
 - [Models](#models)
