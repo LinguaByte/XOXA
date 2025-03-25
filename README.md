@@ -10,7 +10,6 @@ This is a real-time chat application built using Java and MongoDB. The app allow
 - [Technologies Used](#Technologies-Used)
 - [Prerequisites](#Prerequisites)
 - [Usage](#Usage)
-- [Requirements](#requirements)
 - [Contributions](#contributions)
 - [Disclaimer](#Disclaimer)
 
