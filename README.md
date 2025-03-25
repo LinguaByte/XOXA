@@ -11,7 +11,7 @@ This is a real-time chat application built using Java and MongoDB. The app allow
 - [Dataset](#dataset)
 - [Models](#models)
 - [Requirements](#requirements)
-- [Contribution](#contribution)
+- [Contributions](#contributions)
 - [License](#license)
 
 ### Introduction:
