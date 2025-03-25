@@ -45,8 +45,8 @@ Before you begin, ensure you have met the following requirements:
 
 <img src="https://github.com/LinguaByte/XOXA/blob/main/Images/Pic%201.jpg" alt="Pic 1" width="1000" /><br><br>
 <img src="https://github.com/LinguaByte/XOXA/blob/main/Images/Pic%202.jpg" alt="Pic 2" width="1000" /><br><br>
-<img src="https://github.com/LinguaByte/XOXA/blob/main/Images/Pic%203.jpg" alt="Pic 3" width="1000" /><br><br>
-This image shows where you have to upload the app id.
+<img src="https://github.com/LinguaByte/XOXA/blob/main/Images/Pic%203.jpg" alt="Pic 3" width="1000" /><br>
+<p align="center">This image shows where you have to upload the app id.</p>
 
 ## Contributions:
 Feel free to fork this repository, open issues, and submit pull requests. Contributions to add new features or improve the application are always welcome!
