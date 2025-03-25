@@ -43,9 +43,9 @@ Before you begin, ensure you have met the following requirements:
 4. Build and run the application using your preferred IDE or via the command line.
 5. Follow the on-screen instructions to sign up, log in, and start chatting!
 
-<img src="https://github.com/LinguaByte/XOXA/blob/main/Images/Pic%201.jpg" alt="Pic 1" width="800" /><br><br>
-<img src="https://github.com/LinguaByte/XOXA/blob/main/Images/Pic%202.jpg" alt="Pic 2" width="800" /><br><br>
-<img src="https://github.com/LinguaByte/XOXA/blob/main/Images/Pic%203.jpg" alt="Pic 3" width="800" /><br><br>
+<img src="https://github.com/LinguaByte/XOXA/blob/main/Images/Pic%201.jpg" alt="Pic 1" width="1000" /><br><br>
+<img src="https://github.com/LinguaByte/XOXA/blob/main/Images/Pic%202.jpg" alt="Pic 2" width="1000" /><br><br>
+<img src="https://github.com/LinguaByte/XOXA/blob/main/Images/Pic%203.jpg" alt="Pic 3" width="1000" /><br><br>
 This image shows where you have to upload the app id.
 
 ## Contributions:
