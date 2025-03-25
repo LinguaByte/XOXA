@@ -14,16 +14,16 @@ This is a real-time chat application built using Java and MongoDB. The app allow
 - [Contributions](#contributions)
 - [Disclaimer](#Disclaimer)
 
-### Introduction:
+## Introduction:
 This real-time Android chat application, developed with Android Studio and Java, allows users to send and receive messages instantly. Utilizing MongoDB as the backend, the app stores and manages messages efficiently in a scalable NoSQL database, supporting 100+ concurrent users. Java’s powerful backend ensures fast and reliable message delivery, creating a seamless communication experience. The app is designed to handle high user loads while maintaining smooth performance and responsiveness.
 
-### Features:
+## Features:
 1. Real-Time Messaging: Instant message exchange between users with minimal delay.
 2. MongoDB Integration: Efficient storage and retrieval of user data and chat history.
 3. User Authentication: Users can sign up, log in, and securely access the chat service.
 4. GUI: The application features a user-friendly interface designed using Java Swing (or JavaFX).
 
-### Usage:
+## Usage:
 1. Clone this repository to your local machine.
 2. Install Java JDK (8 or above).
 3. Set up MongoDB and configure it to run locally or use a cloud instance, Get the 'APP ID' from MongoDB & paste it in code(as shown in below p
