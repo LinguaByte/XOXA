@@ -6,7 +6,7 @@ This is a real-time chat application built using Java and MongoDB. The app allow
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [How to run](#How_to_Run)
+- [Usage](#Usage)
 - [Dataset](#dataset)
 - [Models](#models)
 - [Requirements](#requirements)
@@ -19,7 +19,7 @@ This is a real-time chat application built using Java and MongoDB. The app allow
 3. User Authentication: Users can sign up, log in, and securely access the chat service.
 4. GUI: The application features a user-friendly interface designed using Java Swing (or JavaFX).
 
-### How to Run:
+### Usage:
 1. Clone this repository to your local machine.
 2. Install Java JDK (8 or above).
 3. Set up MongoDB and configure it to run locally or use a cloud instance, Get the 'APP ID' from MongoDB & paste it in code(as shown in below p
