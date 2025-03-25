@@ -8,8 +8,8 @@ This is a real-time chat application built using Java and MongoDB. The app allow
 - [Introduction](#introduction)
 - [Features](#Features)
 - [Technologies Used](#Technologies-Used)
+- [Prerequisites](#Prerequisites)
 - [Usage](#Usage)
-- [Models](#models)
 - [Requirements](#requirements)
 - [Contributions](#contributions)
 - [Disclaimer](#Disclaimer)
@@ -27,6 +27,15 @@ This real-time Android chat application, developed with Android Studio and Java,
 
 - **Frontend**: Android Studio, Java
 - **Backend**: MongoDB (NoSQL database)
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- **Android Studio** installed on your machine
+- **MongoDB** (locally or using MongoDB Atlas)
+- Basic knowledge of Java and Android development
+- A valid MongoDB URI for database access
 
 ## Usage:
 1. Clone this repository to your local machine.
